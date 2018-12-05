@@ -1,0 +1,10 @@
+C:\2 курс\DM\DmTask4\MergeSort\bin\Debug\MergeSort.exe.config
+C:\2 курс\DM\DmTask4\MergeSort\bin\Debug\MergeSort.exe
+C:\2 курс\DM\DmTask4\MergeSort\bin\Debug\MergeSort.pdb
+C:\2 курс\DM\DmTask4\MergeSort\bin\Debug\ClassLib.dll
+C:\2 курс\DM\DmTask4\MergeSort\bin\Debug\ClassLib.pdb
+C:\2 курс\DM\DmTask4\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\2 курс\DM\DmTask4\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\2 курс\DM\DmTask4\MergeSort\obj\Debug\MergeSort.csproj.CopyComplete
+C:\2 курс\DM\DmTask4\MergeSort\obj\Debug\MergeSort.exe
+C:\2 курс\DM\DmTask4\MergeSort\obj\Debug\MergeSort.pdb

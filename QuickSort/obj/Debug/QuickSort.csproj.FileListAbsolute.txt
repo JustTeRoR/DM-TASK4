@@ -1,0 +1,10 @@
+C:\2 курс\DM\DmTask4\QuickSort\bin\Debug\QuickSort.exe.config
+C:\2 курс\DM\DmTask4\QuickSort\bin\Debug\QuickSort.exe
+C:\2 курс\DM\DmTask4\QuickSort\bin\Debug\QuickSort.pdb
+C:\2 курс\DM\DmTask4\QuickSort\bin\Debug\ClassLib.dll
+C:\2 курс\DM\DmTask4\QuickSort\bin\Debug\ClassLib.pdb
+C:\2 курс\DM\DmTask4\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\2 курс\DM\DmTask4\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\2 курс\DM\DmTask4\QuickSort\obj\Debug\QuickSort.csproj.CopyComplete
+C:\2 курс\DM\DmTask4\QuickSort\obj\Debug\QuickSort.exe
+C:\2 курс\DM\DmTask4\QuickSort\obj\Debug\QuickSort.pdb

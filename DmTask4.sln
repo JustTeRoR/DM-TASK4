@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{0DEBDF76-933A-414E-8EF7-C71F28B0B708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{AF447797-0BA2-4F0F-B2F9-4D177ACED3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{626552A1-D824-4090-8917-C39359BAA389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEBDF76-933A-414E-8EF7-C71F28B0B708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEBDF76-933A-414E-8EF7-C71F28B0B708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEBDF76-933A-414E-8EF7-C71F28B0B708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEBDF76-933A-414E-8EF7-C71F28B0B708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF447797-0BA2-4F0F-B2F9-4D177ACED3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF447797-0BA2-4F0F-B2F9-4D177ACED3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF447797-0BA2-4F0F-B2F9-4D177ACED3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF447797-0BA2-4F0F-B2F9-4D177ACED3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626552A1-D824-4090-8917-C39359BAA389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626552A1-D824-4090-8917-C39359BAA389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626552A1-D824-4090-8917-C39359BAA389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626552A1-D824-4090-8917-C39359BAA389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33628DB-155D-4D26-A26E-42E8AF959FD8}
+	EndGlobalSection
+EndGlobal
